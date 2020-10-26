@@ -43,14 +43,14 @@ career-profile:
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Donec quam felis, ultricies nec, pellentesque eu..
       Second paragraph if required.
 education:
     - degree: BSc in Electronics Engineering
       university: Gebze Technical University
       time: 2017 - 
       details: 
-        
+
     - degree: Denizli Erbakir High School
       university: High School
       time: 2013 - 2017
