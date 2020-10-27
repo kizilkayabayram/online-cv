@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -146,22 +146,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: ROS 
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Linux Shell Scripting
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: C
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Computer Vision
+        level: 80%
 
 footer: 
